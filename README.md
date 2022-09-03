@@ -1,4 +1,4 @@
-👋 Hi, I’m @swapsid
+👋 Hi, I’m Swapnil Siddharth, a CS grad from University of Galway.
 
 👀 I’m am experienced in data analytics, data engineering and web development.
 
