@@ -1,12 +1,5 @@
-👋 Hi, I’m Swapnil Siddharth, a CS grad from University of Galway.
-
-👀 I’m am experienced in data analytics, data engineering and web development.
-
-🌱 I’m currently learning deep learning, reinforcement learning and visualization story-telling.
-
-💞️ I’m looking to collaborate on anything related to data.
-
-📫 How to reach me: swapsid@outlook.com and linked: linkedin.com/in/swapsid/
+How to reach me: swapsid01@gmail.com and linkedIn: linkedin.com/in/swapsid/
+Read my articles on Medium: https://medium.com/@swapsid_
 
 <!---
 swapsid/swapsid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
