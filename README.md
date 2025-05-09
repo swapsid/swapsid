@@ -1,4 +1,4 @@
-How to reach me: swapsid01@gmail.com and LinkedIn: https://linkedin.com/in/swapsid/
+How to reach me: reg.swapnil@gmail.com and LinkedIn: https://linkedin.com/in/swapsid/
 
 Read my articles on Medium: [https://medium.com/@swapsid_]
 <!---
